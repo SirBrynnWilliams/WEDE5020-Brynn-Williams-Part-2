@@ -49,9 +49,9 @@ Part 2 Incorporates the CSS. the HTML was updated with CSS.
 **2026-8-25** Continued on the CSS file, continued with the file.
 **2026-8-29** Updated classes on the Index, About Us and Services page.
 **2026-9-5**  Updated Classes and CSS on all pages.
-**2026-9-11** 
-**2026-9-12**
-**2026-9-15**
+**2026-9-11**  Updated CSS classes in my code for Part 2. Also fixed Comments which gave problems 
+**2026-9-12** Continued to edit the mistakes from the prevoius classes which caused issues with loading CSS as there are 2 created CSS files in the folder.
+**2026-9-15** Updated GitHub and created new repository for Part 2
 **2026-9-16**
 **2026-9-17**
 **2026-9-18**
