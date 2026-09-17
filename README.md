@@ -53,8 +53,8 @@ Part 2 Incorporates the CSS. the HTML was updated with CSS.
 **2026-9-12** Continued to edit the mistakes from the prevoius classes which caused issues with loading CSS as there are 2 created CSS files in the folder.
 **2026-9-15** Updated GitHub and created new repository for Part 2
 **2026-9-16** Updated the CSS and HTML
-**2026-9-17**
-**2026-9-18**
+**2026-9-17** Created new linked repository file for Part 2 
+**2026-9-18** Finalized updates for part 2 and submitted.
 
 ## Project Overview
 Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app 
