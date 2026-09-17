@@ -39,5 +39,22 @@ Part 1 Incorporates a Proposal for the chosen Organization and the Draft Website
 - **2026-8-14:** Finalized the builds for the website, Github updates and Netlify. 
 - **2026-8-14:** Uploaded completed website to Netlify.
 
+## Part 2
+Part 2 Incorporates the CSS. the HTML was updated with CSS.
+
+**2026-8-17** Create a Styles CSS Folder and created a Styles.css and Shared.css file.
+**2026-8-19** Updated the code with css Classes based on the Index Page
+**2026-8-21** Working on CSS classes - Started on the Index file.
+**2026-8-22** Continued on the CSS file, incorporated more classes into the pages.
+**2026-8-25** Continued on the CSS file, continued with the file.
+**2026-8-29** Updated classes on the Index, About Us and Services page.
+**2026-9-5**  Updated Classes and CSS on all pages.
+**2026-9-11** 
+**2026-9-12**
+**2026-9-15**
+**2026-9-16**
+**2026-9-17**
+**2026-9-18**
+
 ## Project Overview
 Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app 
