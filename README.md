@@ -42,19 +42,19 @@ Part 1 Incorporates a Proposal for the chosen Organization and the Draft Website
 ## Part 2
 Part 2 Incorporates the CSS. the HTML was updated with CSS.
 
-**2026-8-17** Create a Styles CSS Folder and created a Styles.css and Shared.css file.
-**2026-8-19** Updated the code with css Classes based on the Index Page
-**2026-8-21** Working on CSS classes - Started on the Index file.
-**2026-8-22** Continued on the CSS file, incorporated more classes into the pages.
-**2026-8-25** Continued on the CSS file, continued with the file.
-**2026-8-29** Updated classes on the Index, About Us and Services page.
-**2026-9-5**  Updated Classes and CSS on all pages.
-**2026-9-11**  Updated CSS classes in my code for Part 2. Also fixed Comments which gave problems 
-**2026-9-12** Continued to edit the mistakes from the prevoius classes which caused issues with loading CSS as there are 2 created CSS files in the folder.
-**2026-9-15** Updated GitHub and created new repository for Part 2
-**2026-9-16** Updated the CSS and HTML
-**2026-9-17** Created new linked repository file for Part 2 
-**2026-9-18** Finalized updates for part 2 and submitted.
+- **2026-8-17** Create a Styles CSS Folder and created a Styles.css and Shared.css file.
+- **2026-8-19** Updated the code with css Classes based on the Index Page
+- **2026-8-21** Working on CSS classes - Started on the Index file.
+- **2026-8-22** Continued on the CSS file, incorporated more classes into the pages.
+- **2026-8-25** Continued on the CSS file, continued with the file.
+- **2026-8-29** Updated classes on the Index, About Us and Services page.
+- **2026-9-5**  Updated Classes and CSS on all pages.
+- **2026-9-11**  Updated CSS classes in my code for Part 2. Also fixed Comments which gave problems 
+- **2026-9-12** Continued to edit the mistakes from the prevoius classes which caused issues with loading CSS as there are 2 created CSS files in the folder.
+- **2026-9-15** Updated GitHub and created new repository for Part 2
+- **2026-9-16** Updated the CSS and HTML
+- **2026-9-17** Created new linked repository file for Part 2 
+- **2026-9-18** Finalized updates for part 2 and submitted.
 
 ## Project Overview
 Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app 
