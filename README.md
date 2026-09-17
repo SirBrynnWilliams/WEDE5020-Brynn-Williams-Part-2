@@ -57,4 +57,8 @@ Part 2 Incorporates the CSS. the HTML was updated with CSS.
 - **2026-9-18** Finalized updates for part 2 and submitted.
 
 ## Project Overview
-Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app 
+Part 1 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
+Part 2 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
+
+## Reference List 
+
