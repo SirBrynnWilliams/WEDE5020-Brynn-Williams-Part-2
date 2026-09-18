@@ -82,8 +82,8 @@ Welcome to the **WEDE5020 Part 2** web application repository. This repository c
 - **Responsive Web Design:** Mobile-first fluid grids scaling down at `960px` (2x2 tablet collapse) and `600px` (single-column mobile stack).
 
 ## Project Overview
-Part 1 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
-Part 2 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
+- Part 1 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
+- Part 2 - Link to Netlify - https://brynnwilliamswede5020part2.netlify.app
 
 ## Reference List 
 Google, 2026\. Google Chrome web browser. [computer program] Available at: [https://www.google.com/chrome/](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fwww.google.com%2Fchrome%2F) [Accessed 11 September 2026].
