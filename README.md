@@ -56,6 +56,31 @@ Part 2 Incorporates the CSS. the HTML was updated with CSS.
 - **2026-9-17** Created new linked repository file for Part 2 
 - **2026-9-18** Finalized updates for part 2 and submitted.
 
+## Part 2 Project
+
+Welcome to the **WEDE5020 Part 2** web application repository. This repository contains the complete source code, responsive layouts, custom styling, and asset structure for the live project deployment.
+
+## Project Overview
+
+- **Module:** Web Development (WEDE5020)
+- **Deployment Platform:** Netlify
+- **Version Control:** Git & GitHub
+
+## Design & Visual System
+
+- **Color Palette:**
+  - **Body Background:** Warm Beige (`#F5EEDC`)
+  - **Header Surfaces:** Sage Green (`#8A9A5B`)
+  - **Navigation & Footer:** Dark Sage (`#5B683C`)
+  - **Accents & Highlights:** Gold (`#D4AF37`)
+  - **Card Containers:** White (`#FFFFFF`) with off-white inputs (`#FAFAFA`)
+
+## Key Technical Features
+
+- **Services Page (ICE Task 3):** 4-card horizontal CSS Grid with hover lift effects (`translateY(-6px)`) and image frame constraints (`object-fit: cover`).
+- **Contact Page & Footer (ICE Task 4):** 2-column main grid layout and a 4-column footer grid with high-contrast text styling.
+- **Responsive Web Design:** Mobile-first fluid grids scaling down at `960px` (2x2 tablet collapse) and `600px` (single-column mobile stack).
+
 ## Project Overview
 Part 1 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
 Part 2 - Link to Netlify - https://wede5020brynnwilliamspart1.netlify.app
