@@ -20,3 +20,4 @@ Part 1
 - **2026-8-14:** Updated the last minute changes to the proposal and the website, making sure everything links to each other.
 
 ## [Part 2 Updates] - Updated styles and structure
+## [1.0.0] - Final Release
